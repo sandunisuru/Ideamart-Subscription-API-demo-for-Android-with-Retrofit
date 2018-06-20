@@ -21,3 +21,6 @@ in API>>APIUrl.java file
 Retrofit 2 > ````implementation 'com.squareup.retrofit2:retrofit:2.2.0'````
 
 GSON Library > ````implementation 'com.squareup.retrofit2:converter-gson:2.2.0' ````
+
+
+Not tested in Real Environment.
